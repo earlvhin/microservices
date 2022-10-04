@@ -1,2 +1,2 @@
 # microservices
-A dive deep to implementing microservices with NestJS
+A deep dive to implementing microservices with NestJS
